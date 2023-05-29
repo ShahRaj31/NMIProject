@@ -6,6 +6,8 @@
 Raj Shah, rshah11@sfsu.edu, 922991378; Sayali Samjiskar, ssamjiskar@sfsu.edu, 922968147; Shalman Chakravarthi Tatigiri, statigiri@sfsu.edu, 922965469
 ```
 
+[Link to Youtube video](https://www.youtube.com/watch?v=g_jqdJnRwzQ&t=1s)
+
 ##### Abstract:
 ##### The hand, being the most dependable part of the human body, serves as the inspiration for this project. By utilizing Electromyogram (EMG) signals, which are generated upon muscle contraction, the feasibility of controlling the gripper and rotation is demonstrated. The project utilizes an Arduino as the main controlling unit to analyze and control the commands to the robotic gripper. Based on the received signal from EMG, the servo motor or robotic gripper is controlled accordingly. To facilitate data transmission, the NRF24L01 module is utilized for radio communication. With this setup, the project enables the control of motion such as the opening/closing of the robotic gripper, with the integration of sensors and Arduino-based control.
 
